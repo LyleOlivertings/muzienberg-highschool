@@ -14,7 +14,7 @@ export default function Home() {
               Welcome to MuzienBerg High
             </h1>
             <p className="text-xl">
-              Cape Town's Premier Educational Institution
+              Cape Town&apos;s Premier Educational Institution
             </p>
           </div>
         </section>

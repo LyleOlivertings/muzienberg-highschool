@@ -21,11 +21,11 @@ const Footer = () => {
             <p className="text-sm">
               MuzienBerg High School<br/>
               <a 
-                href="https://maps.app.goo.gl/..." 
+                href="https://maps.app.goo.gl/4dZRdDAE5vSU4BDU7" 
                 target="_blank"
                 className="hover:text-blue-200 underline"
               >
-                12 Academic Way, Cape Town 8001
+                Dover Road, Off Windermere Rd, Muizenberg, Cape Town, 7950
               </a>
             </p>
             <p className="text-sm">

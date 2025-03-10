@@ -14,7 +14,7 @@ export default function SuccessPage() {
             🎉 Application Received!
           </h1>
           <p className="text-xl mb-8">
-            Thank you for choosing Muzienberg High. We'll contact you within 5 working days.
+            Thank you for choosing Muzienberg High. We&apos;ll contact you within 5 working days.
           </p>
           <Link
             href="/"
