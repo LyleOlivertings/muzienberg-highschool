@@ -1,6 +1,7 @@
 import HeroCarousel from "@/components/HeroCarousel";
 import Navbar from "@/components/Navbar";
 import TestimonialSlider from "@/components/TestimonialSlider";
+import NewsSection from "@/components/NewsSection";
 
 export default function Home() {
   return (
@@ -95,7 +96,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-
+        <NewsSection />
        
       </main>
     </>

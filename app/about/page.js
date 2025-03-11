@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import FacultyDirectory from "@/components/FacultyDirectory";
 
+
 export default function About() {
   return (
     <>
