@@ -4,9 +4,9 @@ import FacultyCard from '@/components/FacultyCard';
 export default function FacultyDirectory() {
     const faculty = [
       { name: "Mrs. M Oliver", role: "Principal", placeholderId: 1 },
-      { name: "Mr. Sipho Dlamini", role: "Deputy Principal", placeholderId: 2 },
-      { name: "Ms. Nomsa Khumalo", role: "Head of Mathematics", placeholderId: 3 },
-      { name: "Mr. James Petersen", role: "Head of Science", placeholderId: 4 },
+      { name: "Mr. Cupido P", role: "Deputy Principal", placeholderId: 2 },
+      { name: "Jaftha D", role: "Deputy Principal", placeholderId: 3 },
+      { name: "Mr. Dingle B", role: "Head of Science", placeholderId: 4 },
       { name: "Ms. Ayesha Jacobs", role: "Head of Languages", placeholderId: 5 },
       { name: "Mr. David Botha", role: "Sports Director", placeholderId: 6 },
     ];

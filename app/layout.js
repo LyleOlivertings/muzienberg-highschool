@@ -1,5 +1,6 @@
 import './globals.css'
 import Footer from '../components/Footer'
+import EmergencyBanner from '../components/EmergencyBanner'
 
 export const metadata = {
   title: 'Muzienberg High School',
@@ -9,8 +10,13 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      
       <body className="min-h-screen">
+        
+      <EmergencyBanner />
+
         {children}
+        
         <Footer />
       </body>
     </html>
