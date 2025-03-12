@@ -259,8 +259,9 @@ export default function Academics() {
               },
 
               {
-                name: "Dr. Thandi Ndlovu",
-                role: "H.O.D Science Department",
+                name: "Mrs. M. Oliver",
+                role: "Principal",
+          
              
                 img: "/images/staff/principal.jpg",
               },
