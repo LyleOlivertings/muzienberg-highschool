@@ -32,7 +32,7 @@ export const staffMembers = [
       image: '/staff/zj.jpg'
     },
     {
-        id: 36,
+        id: 10,
         code: 'ZJ',
         name: 'Zenda J',
         position: 'Teacher',
@@ -43,7 +43,7 @@ export const staffMembers = [
       },
 
       {
-        id: 36,
+        id: 4,
         code: 'ZJ',
         name: 'Zenda J',
         position: 'Teacher',
