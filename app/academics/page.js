@@ -201,10 +201,10 @@ export default function Academics() {
                     events: "Public Holiday, Human Rights Day",
                   },
                   {
-                    term: "Term 2",
-                    start: "3 April",
-                    end: "14 June",
-                    events: "Science Fair, Mid-year Exams",
+                    term: "Term 1",
+                    start: "28 March",
+                    end: "28 March",
+                    events: "Comedy night",
                   },
                   // Add more terms...
                 ].map((term, index) => (
@@ -222,24 +222,12 @@ export default function Academics() {
           {/* Download Button */}
           <div className="mt-8 text-center text-black">
             <a
-              href="/docs/academic-calendar-2024.pdf"
-              download
+              href="/events"
+            
               className="inline-flex items-center bg-gray-500 text-white px-6 py-3 rounded-lg hover:bg-blue-900"
             >
-              <svg
-                className="w-5 h-5 mr-2"
-                fill="none"
-                stroke="white"
-                viewBox="0 0 24 24 text-black"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
-                />
-              </svg>
-              Download Full Calendar (PDF)
+
+              View full Calendar
             </a>
           </div>
         </section>

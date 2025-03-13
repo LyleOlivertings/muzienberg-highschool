@@ -39,10 +39,10 @@ export default function StaffCard({ staff }) {
         <h2 className="text-xl font-bold">{staff.name}</h2>
         <p className="text-blue-900 mb-2">{staff.position}</p>
         <div className="space-y-1 text-sm">
-          <p><span className="font-semibold">Code:</span> {staff.code}</p>
-          {staff.register && <p><span className="font-semibold">Register:</span> {staff.register}</p>}
+          <p> {staff.code}</p>
+          {staff.register && <p><span className="font-semibold">Register Class:</span> {staff.register}</p>}
           {staff.gradeHead && <p><span className="font-semibold">Grade Head:</span> Grade {staff.gradeHead}</p>}
-          <p><span className="font-semibold">Venue:</span> {staff.venue}</p>
+          
         </div>
       </div>
     </div>

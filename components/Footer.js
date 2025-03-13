@@ -29,7 +29,7 @@ const Footer = () => {
               </a>
             </p>
             <p className="text-sm">
-              Tel: <a href="tel:+27211234567" className="hover:text-blue-200">+27 21 123 4567</a><br/>
+              Tel: <a href="tel:+27217881424" className="hover:text-blue-200">+27 21 788 1424</a><br/>
               Email: <a href="mailto:info@muzienberg.edu.za" className="hover:text-blue-200">info@muzienberg.edu.za</a>
             </p>
           </div>
@@ -39,7 +39,7 @@ const Footer = () => {
             <h3 className="font-bold mb-3">Quick Links</h3>
             <ul className="space-y-2">
               <li><Link href="/about" className="hover:text-blue-200">About Us</Link></li>
-              <li><Link href="/academics" className="hover:text-blue-200">Academic Calendar</Link></li>
+              <li><Link href="/events" className="hover:text-blue-200">Academic Calendar</Link></li>
               <li><Link href="/admissions" className="hover:text-blue-200">Application Process</Link></li>
               <li><Link href="/staff" className="hover:text-blue-200">Staff Directory</Link></li>
               <li><Link href="/gallery" className="hover:text-blue-200">Gallery</Link></li>
@@ -81,7 +81,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-blue-800 mt-8 pt-8 text-center text-sm">
           <p>
-            © {new Date().getFullYear()} MuzienBerg High School. 
+            © {new Date().getFullYear()} Muzienberg High School. 
             All rights reserved. | 
             <Link href="/privacy" className="hover:text-blue-200 ml-2">
               Privacy Policy

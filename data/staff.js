@@ -32,7 +32,18 @@ export const staffMembers = [
       image: '/staff/zj.jpg'
     },
     {
-        id: 10,
+        id: 3,
+        code: 'SD',
+        name: 'Damon S',
+        position: 'Teacher',
+        register: '8B',
+        gradeHead: '',
+        venue: '',
+        image: '/staff/zj.jpg'
+      },
+
+      {
+        id: 36,
         code: 'ZJ',
         name: 'Zenda J',
         position: 'Teacher',
@@ -44,14 +55,114 @@ export const staffMembers = [
 
       {
         id: 4,
-        code: 'ZJ',
-        name: 'Zenda J',
+        code: 'DB',
+        name: 'Dingle B',
         position: 'Teacher',
-        register: '10B',
-        gradeHead: '',
+        register: '',
+        gradeHead: '11',
         venue: 'COMP (100)',
         image: '/staff/zj.jpg'
       },
+
+      {
+        id: 5,
+        code: 'DS',
+        name: 'Dreyden S',
+        position: 'Teacher',
+        register: '',
+        gradeHead: '10',
+        venue: 'COMP (100)',
+        image: '/staff/zj.jpg'
+      },
+
+      {
+        id: 6,
+        code: 'FA',
+        name: 'Fernandez A',
+        position: 'Teacher',
+        register: '',
+        gradeHead: '10',
+        venue: 'COMP (100)',
+        image: '/staff/zj.jpg'
+      },
+
+      {
+        id: 7,
+        code: 'FS',
+        name: 'Franzen S',
+        position: 'Teacher',
+        register: '',
+        gradeHead: '8',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
+      {
+        id: 8,
+        code: 'GM',
+        name: 'Green M',
+        position: 'Teacher',
+        register: '',
+        gradeHead: '9',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
+      {
+        id: 9,
+        code: 'MG',
+        name: 'Gumbojena A',
+        position: 'Teacher',
+        register: '',
+        gradeHead: '9',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
+      {
+        id: 10,
+        code: 'HS',
+        name: 'Hendricks S',
+        position: 'Teacher',
+        register: '10C',
+        gradeHead: '',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
+      {
+        id: 11,
+        code: 'HE',
+        name: 'Hillier N',
+        position: 'Teacher',
+        register: '12E',
+        gradeHead: '',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
+      {
+        id: 12,
+        code: 'JK',
+        name: 'Jacobs K',
+        position: 'Teacher',
+        register: '11A',
+        gradeHead: '',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
+      {
+        id: 13,
+        code: 'JD',
+        name: 'Jaftha D',
+        position: 'Deputy Principal',
+        register: '',
+        gradeHead: '',
+        venue: 'COMP (100)',
+        image: '/staff/6.jpg'
+      },
+
 
 
   ];
