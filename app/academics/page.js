@@ -240,8 +240,8 @@ export default function Academics() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 text-gray-500">
             {[
               {
-                name: "Dr. Thandi Ndlovu",
-                role: "H.O.D Science Department",
+                name: "Cupido P",
+                role: "Deputy Principal",
              
                 img: "/images/staff/principal.jpg",
               },
@@ -255,8 +255,8 @@ export default function Academics() {
               },
 
               {
-                name: "Mr. J. Smith",
-                role: "H.O.D Natural Sciences",
+                name: "Jaftha D",
+                role: "Deputy Principal",
                
                 img: "/images/staff/principal.jpg",
               },
